@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inventory-database.iml" filepath="$PROJECT_DIR$/inventory-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory-database_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory-database_main.iml" group="inventory-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory-database_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory-database_test.iml" group="inventory-database" />
+    </modules>
+  </component>
+</project>
